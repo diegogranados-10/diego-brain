@@ -1,2 +1,0 @@
-
-Actualmente solo podemos asignar grupo de exclusiones a los propietarios. Debemos poder asignar exclusiones de manera individual. Por ejemplo: un cliente puede ser cliente fijos, pero específicamente para ese propietario queremos asignar una exclusión extra.
