@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/Firu/Excluir Automatizaciones por Contactos/Untitled.md",
+                "file": "Proyectos/Firu/Excluir Automatizaciones por Contactos/Agregar exclusiones de manera individual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Agregar exclusiones de manera individual"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Firu/Excluir Automatizaciones por Contactos/Untitled.md",
+                "file": "Proyectos/Firu/Excluir Automatizaciones por Contactos/Agregar exclusiones de manera individual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proyectos/Firu/Excluir Automatizaciones por Contactos/Untitled.md",
+                "file": "Proyectos/Firu/Excluir Automatizaciones por Contactos/Agregar exclusiones de manera individual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proyectos/Firu/Excluir Automatizaciones por Contactos/Untitled.md",
+                "file": "Proyectos/Firu/Excluir Automatizaciones por Contactos/Agregar exclusiones de manera individual.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,12 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3971d7c68cd31666",
+  "active": "3f93da52d25271f6",
   "lastOpenFiles": [
     "Proyectos/Firu/Excluir Automatizaciones por Contactos",
     "Proyectos/Firu",
     "Archivos/Encuestas.md",
-    "Proyectos/Firu/Excluir Automatizaciones por Contactos/Untitled.md",
+    "Proyectos/Firu/Excluir Automatizaciones por Contactos/Agregar exclusiones de manera individual.md",
     "Recursos",
     "Archivos",
     "Areas",
