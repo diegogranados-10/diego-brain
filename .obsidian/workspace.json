@@ -53,14 +53,10 @@
             "id": "4eb0ac69566bc36a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Demos/2026-10-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-23"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -234,9 +230,9 @@
   },
   "active": "4eb0ac69566bc36a",
   "lastOpenFiles": [
-    "Proyectos/Firu/Excluir Automatizaciones por Contactos/Agregar exclusiones de manera individual y por kommo.md",
     "Proyectos/Encuestas/Dejar reseñas en Google a traves de encuestas de satisfacción.md",
     "Demos/2026-10-23.md",
+    "Proyectos/Firu/Excluir Automatizaciones por Contactos/Agregar exclusiones de manera individual y por kommo.md",
     "Proyectos/Encuestas",
     "Demos/23 de octubre del 2026.md",
     "Demos",
