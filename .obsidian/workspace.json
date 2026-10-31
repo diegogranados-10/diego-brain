@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/2026-10-24.md",
+                "file": "2026-10-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-24"
+              "title": "2026-10-30"
             }
           }
         ],
@@ -232,9 +232,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3971d7c68cd31666",
+  "active": "4eb0ac69566bc36a",
   "lastOpenFiles": [
     "weekly/2026-10-24.md",
+    "2026-10-30.md",
     "weekly",
     "Proyectos/Encuestas/Dejar reseñas en Google a traves de encuestas de satisfacción.md",
     "Demos/2026-10-23.md",
